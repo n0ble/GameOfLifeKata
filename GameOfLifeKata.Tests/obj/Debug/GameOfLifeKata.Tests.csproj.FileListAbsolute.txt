@@ -1,0 +1,7 @@
+c:\users\kirill\documents\visual studio 2015\Projects\GameOfLifeKata\GameOfLifeKata.Tests\obj\Debug\GameOfLifeKata.Tests.csprojResolveAssemblyReference.cache
+c:\users\kirill\documents\visual studio 2015\Projects\GameOfLifeKata\GameOfLifeKata.Tests\bin\Debug\GameOfLifeKata.Tests.dll
+c:\users\kirill\documents\visual studio 2015\Projects\GameOfLifeKata\GameOfLifeKata.Tests\bin\Debug\GameOfLifeKata.Tests.pdb
+c:\users\kirill\documents\visual studio 2015\Projects\GameOfLifeKata\GameOfLifeKata.Tests\bin\Debug\GameOfLifeKata.exe
+c:\users\kirill\documents\visual studio 2015\Projects\GameOfLifeKata\GameOfLifeKata.Tests\bin\Debug\GameOfLifeKata.pdb
+c:\users\kirill\documents\visual studio 2015\Projects\GameOfLifeKata\GameOfLifeKata.Tests\obj\Debug\GameOfLifeKata.Tests.dll
+c:\users\kirill\documents\visual studio 2015\Projects\GameOfLifeKata\GameOfLifeKata.Tests\obj\Debug\GameOfLifeKata.Tests.pdb

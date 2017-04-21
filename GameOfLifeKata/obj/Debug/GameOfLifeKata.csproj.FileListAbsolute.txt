@@ -1,0 +1,6 @@
+c:\users\kirill\documents\visual studio 2015\Projects\GameOfLifeKata\GameOfLifeKata\bin\Debug\GameOfLifeKata.exe.config
+c:\users\kirill\documents\visual studio 2015\Projects\GameOfLifeKata\GameOfLifeKata\bin\Debug\GameOfLifeKata.exe
+c:\users\kirill\documents\visual studio 2015\Projects\GameOfLifeKata\GameOfLifeKata\bin\Debug\GameOfLifeKata.pdb
+c:\users\kirill\documents\visual studio 2015\Projects\GameOfLifeKata\GameOfLifeKata\obj\Debug\GameOfLifeKata.csprojResolveAssemblyReference.cache
+c:\users\kirill\documents\visual studio 2015\Projects\GameOfLifeKata\GameOfLifeKata\obj\Debug\GameOfLifeKata.exe
+c:\users\kirill\documents\visual studio 2015\Projects\GameOfLifeKata\GameOfLifeKata\obj\Debug\GameOfLifeKata.pdb
